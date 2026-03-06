@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Compile Nexus
+# 👋 Hi, I'm Anurag Tiwari
 
 <p align="left">
   🚀 Full Stack Developer | 📊 Data Analyst | 🤖 AI/ML Enthusiast
