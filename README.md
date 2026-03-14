@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anurag Tiwari
+# 👋 Hi, I'm a developer who loves solving problems and turning ideas into code.
 
 <p align="left">
   🚀 Full Stack Developer | 📊 Data Analyst | 🤖 AI/ML Enthusiast
